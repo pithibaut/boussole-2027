@@ -149,7 +149,7 @@ footer strong{display:block;color:#254864;letter-spacing:-.2px;font-size:16px}fo
 #results>h2{max-width:750px}
 @media(max-width:720px){.topic-list{grid-template-columns:1fr}.livebox>summary{flex-wrap:wrap}.livebox .live-hint{font-size:10px}}
 @media(max-width:560px){.status:after{content:"DÉCOUVERTE";font-size:9px;letter-spacing:.1px}}
-</style></head><body><header><div class="brand"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 48 48" width="31" height="31"><circle cx="24" cy="24" r="17" fill="none" stroke="currentColor" stroke-width="1.4" opacity=".72"/><path d="m28.8 19.2-4.1 12.5-4.1-8.4-8.4-4.1 12.5-4.1z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linejoin="round"/><circle cx="24" cy="24" r="2" fill="currentColor"/></svg></span><span>Boussole <em>2027</em><small>LE REGARD CITOYEN</small></span></div><span class="status"><span class="status-indicator" aria-hidden="true"></span> BOUSSOLE 2027 · ÉDITION DÉCOUVERTE</span></header><section class="hero"><div class="wrap"><div class="smallcaps"><span class="hero-line" aria-hidden="true"></span> Comprendre avant de choisir</div><h1>Vos idées. Les grands choix.</h1><p>Explorez vos convictions et les grandes questions qui façonneront le débat politique de 2027.</p><div class="hero-meta"><span>Deux parcours · 28 ou 56 questions</span><span>16 personnalités à explorer</span><span>Une lecture par grands thèmes</span></div></div></section>
+</style></head><body><header><div class="brand"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 48 48" width="31" height="31"><circle cx="24" cy="24" r="17" fill="none" stroke="currentColor" stroke-width="1.4" opacity=".72"/><path d="m28.8 19.2-4.1 12.5-4.1-8.4-8.4-4.1 12.5-4.1z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linejoin="round"/><circle cx="24" cy="24" r="2" fill="currentColor"/></svg></span><span>Boussole <em>2027</em><small>LE REGARD CITOYEN</small></span></div><span class="status"><span class="status-indicator" aria-hidden="true"></span> BOUSSOLE 2027 · COMPARAISON EXPLORATOIRE — CORRECTIF 02</span></header><section class="hero"><div class="wrap"><div class="smallcaps"><span class="hero-line" aria-hidden="true"></span> Comprendre avant de choisir</div><h1>Vos idées. Les grands choix.</h1><p>Explorez vos convictions et les grandes questions qui façonneront le débat politique de 2027.</p><div class="hero-meta"><span>Deux parcours · 28 ou 56 questions</span><span>16 personnalités à explorer</span><span>Une lecture par grands thèmes</span></div></div></section>
 <main>
 <details class="livebox" id="liveUpdates"><summary>Veille documentaire <span class="live-hint">· suivi des sources publiques</span></summary><div class="live-details" aria-live="polite"><p id="liveStatus" class="live-status">Vérification du dernier contrôle des sources…</p><p id="coverageProgress" class="live-status">Documentation en cours de suivi.</p><p id="approvedStatus" class="live-status">Le questionnaire reste disponible même hors connexion.</p><details><summary>Historique des nouveautés détectées</summary><div id="liveEvents"><p>Aucune vérification automatique chargée.</p></div><p>Les changements détectés ne deviennent pas automatiquement des accords politiques : une vérification éditoriale reste nécessaire.</p></details></div></details>
 <section class="paper" id="intro"><div class="section-top"><span class="section-number">01 <i></i> VOTRE PARCOURS</span><span class="section-trail">Une réflexion à votre rythme</span></div><h2>Choisissez votre parcours</h2><p class="muted">Les 28 questions essentielles couvrent tous les grands enjeux. Le parcours complet ajoute 28 arbitrages plus détaillés. Sur chaque réponse, le bouton <b>?</b> donne un exemple ou une explication.</p><div class="modes"><button class="mode selected" id="quickMode"><span class="mode-icon" aria-hidden="true">01</span><b>Parcours essentiel</b><span>28 questions · les grandes décisions pour la France</span><span class="mode-hint">Environ 10–15 min <span aria-hidden="true">↗</span></span></button><button class="mode" id="fullMode"><span class="mode-icon" aria-hidden="true">02</span><b>Parcours approfondi</b><span>56 questions · nuances supplémentaires sur tous les thèmes</span><span class="mode-hint">À votre rythme <span aria-hidden="true">↗</span></span></button></div><div class="actions"><span class="mini">Anonyme · pas de compte · réponses conservées seulement tant que cette page reste ouverte</span><button class="button" id="startBtn">Commencer →</button><button class="button alt" id="inspectWithoutAnswer">Découvrir les thèmes et les personnalités</button></div></section>
@@ -265,4 +265,33 @@ async function loadWatchStatus(){
  }catch(e){$('liveStatus').textContent='La veille documentaire n’est pas accessible pour le moment.'}
 }
 loadWatchStatus();
+// Boussole 2027 - synthèse nominative exploratoire, sans score fabriqué.
+const originalBoussoleShowResults = showResults;
+showResults = function(){
+  originalBoussoleShowResults();
+  const chosen = new Map(activeQuestions().map(q=>[q.id,new Set(answerFor(q.id).choices)]));
+  const profiles = D.candidates.map(person=>{
+    const seen = new Set(), links = [];
+    for (const ev of D.evidence){
+      if(ev.candidate_id!==person.id || ev.scope!=='personnel' || ev.level!=='direct' || !validUrl(ev.url)) continue;
+      if(!chosen.get(ev.question_id)?.has(ev.option_id)) continue;
+      const unique=ev.question_id+':'+ev.option_id;
+      if(seen.has(unique))continue;
+      seen.add(unique);
+      const q=D.questions.find(q=>q.id===ev.question_id);
+      const opt=q?.options.find(o=>o.id===ev.option_id);
+      if(q && opt)links.push({theme:q.theme,choice:opt.label,measure:ev.measure,url:ev.url});
+    }
+    return {person,links};
+  }).sort((a,b)=>b.links.length-a.links.length||a.person.name.localeCompare(b.person.name,'fr'));
+  const candidatesWithLinks=profiles.filter(p=>p.links.length);
+  const item=({person,links})=>`<article style="padding:12px;border:1px solid #d9e3ee;border-radius:12px;background:white"><strong>${escapeHTML(person.name)}</strong><p style="font-size:13px;margin:4px 0">${links.length?links.length+' réponse'+(links.length>1?'s':'')+' liée'+(links.length>1?'s':'')+' à une proposition recensée':'Aucun lien direct documenté pour vos réponses'}</p>${links.length?`<details><summary>Voir les propositions et sources</summary>${links.map(x=>`<p style="font-size:13px"><b>${escapeHTML(x.theme)} — ${escapeHTML(x.choice)}</b><br>${escapeHTML(x.measure)}<br><a href="${escapeHTML(x.url)}" target="_blank" rel="noopener noreferrer">Lire la source (attribution provisoire)</a></p>`).join('')}</details>`:''}</article>`;
+  const el=document.createElement('section');
+  el.id='boussole-results-nominal';
+  el.style='border:1px solid #d9e3ee;border-radius:14px;padding:16px;margin-bottom:24px;background:#f8fbfd';
+  el.innerHTML=`<h2 style="font-size:22px;margin:0 0 8px">Vos réponses face aux personnalités étudiées</h2><p>Les rapprochements ci-dessous proviennent de notre documentation de travail et restent <strong>provisoires</strong>. Ils ne constituent ni une mesure d'affinité électorale ni un classement politique.</p>${candidatesWithLinks.length?`<h3>Propositions liées à certains de vos choix</h3><div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px">${candidatesWithLinks.slice(0,8).map(item).join('')}</div>`:'<p>Aucune proposition directement liée à vos choix dans le corpus provisoire. Cela ne signifie pas un désaccord.</p>'}<h3 style="margin-top:20px">Les 16 personnalités examinées</h3><div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px">${profiles.map(item).join('')}</div>`;
+  $('leaders').prepend(el);
+  $('coverageWarning').textContent='Comparaison exploratoire : les liens présentés sont des pistes à vérifier. Les sources manquantes ne sont pas considérées comme des désaccords ; aucun pourcentage de proximité n’est calculé.';
+};
+
 </script></body></html>
