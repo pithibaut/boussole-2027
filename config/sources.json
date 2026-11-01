@@ -1,0 +1,366 @@
+{
+  "schema": 1,
+  "date": "2026-11-01",
+  "sources": [
+    {
+      "id": "S001",
+      "candidate_id": "BC",
+      "candidate_name": "Bernard Cazeneuve",
+      "url": "https://www.la-convention.fr/lettre",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S002",
+      "candidate_id": "BR",
+      "candidate_name": "Bruno Retailleau",
+      "url": "https://republicains.fr/nos-propositions/",
+      "category": "html",
+      "evidence_scope": "parti",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S003",
+      "candidate_id": "BR",
+      "candidate_name": "Bruno Retailleau",
+      "url": "https://www.avecretailleau.fr/projet/faq",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S004",
+      "candidate_id": "BR",
+      "candidate_name": "Bruno Retailleau",
+      "url": "https://www.avecretailleau.fr/projet/theme/institutions",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S005",
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "url": "https://generationecologie.fr/a-propos/generation-ecologie/notre-projet/",
+      "category": "html",
+      "evidence_scope": "mouvement",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S006",
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "url": "https://www.delphinebatho.fr/",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S007",
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "url": "https://www.generationecologie.fr/a-propos/generation-ecologie/notre-projet/",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S008",
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "url": "https://www.generationecologie.fr/app/uploads/2025/07/Intervention_de_Delphine_Batho_a_la_convention_nationale_de_Generation-1.pdf",
+      "category": "pdf",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S009",
+      "candidate_id": "DL",
+      "candidate_name": "David Lisnard",
+      "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+      "category": "html",
+      "evidence_scope": "mouvement,personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S010",
+      "candidate_id": "EP",
+      "candidate_name": "Édouard Philippe",
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S011",
+      "candidate_id": "EP",
+      "candidate_name": "Édouard Philippe",
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S012",
+      "candidate_id": "EZ",
+      "candidate_name": "Éric Zemmour",
+      "url": "https://www.ericzemmour.fr/identite",
+      "category": "html",
+      "evidence_scope": "historique",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S013",
+      "candidate_id": "EZ",
+      "candidate_name": "Éric Zemmour",
+      "url": "https://www.ericzemmour.fr/instruction",
+      "category": "html",
+      "evidence_scope": "historique",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S014",
+      "candidate_id": "EZ",
+      "candidate_name": "Éric Zemmour",
+      "url": "https://www.ericzemmour.fr/priorites",
+      "category": "html",
+      "evidence_scope": "historique",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S015",
+      "candidate_id": "FR",
+      "candidate_name": "François Ruffin",
+      "url": "https://nouspresident.fr/face-a-la-crise-du-logement/",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S016",
+      "candidate_id": "FR",
+      "candidate_name": "François Ruffin",
+      "url": "https://nouspresident.fr/notre-programme/",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S017",
+      "candidate_id": "FRO",
+      "candidate_name": "Fabien Roussel",
+      "url": "https://www.pcf.fr/face_explosion_des_prix_le_gouvernement_doit_declarer_l_etat_d_urgence_energetique",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S018",
+      "candidate_id": "GA",
+      "candidate_name": "Gabriel Attal",
+      "url": "https://attalpresident.fr/actualites/gabriel-attal-lettre-aux-francais-plan-finances-publiques",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S019",
+      "candidate_id": "GA",
+      "candidate_name": "Gabriel Attal",
+      "url": "https://attalpresident.fr/programme",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S020",
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S021",
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S022",
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "url": "https://melenchon2027.fr/programme/synthese-des-contributions/",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S023",
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
+      "category": "pdf",
+      "evidence_scope": "historique",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S024",
+      "candidate_id": "KB",
+      "candidate_name": "Karim Bouamrane",
+      "url": "https://www.karimbouamrane2027.org/manifeste.html",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S025",
+      "candidate_id": "MLP",
+      "candidate_name": "Marine Le Pen",
+      "url": "https://francaisdeletranger.rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+      "category": "pdf",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S026",
+      "candidate_id": "MLP",
+      "candidate_name": "Marine Le Pen",
+      "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "category": "pdf",
+      "evidence_scope": "parti",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S027",
+      "candidate_id": "MLP",
+      "candidate_name": "Marine Le Pen",
+      "url": "https://www.rassemblementnational.fr/",
+      "category": "html",
+      "evidence_scope": "historique",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S028",
+      "candidate_id": "MLP",
+      "candidate_name": "Marine Le Pen",
+      "url": "https://z5pdobgufn.rassemblementnational.fr/22-mesures",
+      "category": "html",
+      "evidence_scope": "historique",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S029",
+      "candidate_id": "MT",
+      "candidate_name": "Marine Tondelier",
+      "url": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+      "category": "html",
+      "evidence_scope": "parti",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S030",
+      "candidate_id": "MT",
+      "candidate_name": "Marine Tondelier",
+      "url": "https://marinetondelier.fr/livrets-thematiques",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S031",
+      "candidate_id": "NP",
+      "candidate_name": "Natacha Polony",
+      "url": "https://natachapolony2027.fr/",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S032",
+      "candidate_id": "NP",
+      "candidate_name": "Natacha Polony",
+      "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S033",
+      "candidate_id": "NP",
+      "candidate_name": "Natacha Polony",
+      "url": "https://www.republique-souveraine.fr/natacha-polony-2027/",
+      "category": "html",
+      "evidence_scope": "mouvement",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S034",
+      "candidate_id": "RG",
+      "candidate_name": "Raphaël Glucksmann",
+      "url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S035",
+      "candidate_id": "XB",
+      "candidate_name": "Xavier Bertrand",
+      "url": "https://www.nousfrance.fr/2026/03/lettre-aux-maires-de-xavier-bertrand/",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    },
+    {
+      "id": "S036",
+      "candidate_id": "XB",
+      "candidate_name": "Xavier Bertrand",
+      "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
+      "category": "html",
+      "evidence_scope": "personnel",
+      "enabled": true,
+      "source_note": "Issue du référentiel historique v1.3 ; authenticité et portée à confirmer avant toute nouvelle attribution."
+    }
+  ]
+}

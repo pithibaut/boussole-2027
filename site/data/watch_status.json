@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "last_run_at": null,
+  "sources_total": 36,
+  "ok": 0,
+  "errors": 0,
+  "changes": 0,
+  "recent_changes": [],
+  "note": "Surveillance non démarrée : lancer le workflow après publication."
+}

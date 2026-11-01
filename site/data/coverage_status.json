@@ -1,0 +1,109 @@
+{
+  "schema": 1,
+  "updated_at": "2026-11-01T12:58:39+00:00",
+  "candidate_count": 16,
+  "question_count": 56,
+  "cells_total": 896,
+  "validated_question_candidate_pairs": 0,
+  "research_cases_unverified": 896,
+  "original_provisional_evidence": 105,
+  "by_candidate": [
+    {
+      "candidate_id": "BC",
+      "candidate_name": "Bernard Cazeneuve",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "BR",
+      "candidate_name": "Bruno Retailleau",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "DL",
+      "candidate_name": "David Lisnard",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "FRO",
+      "candidate_name": "Fabien Roussel",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "FR",
+      "candidate_name": "François Ruffin",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "GA",
+      "candidate_name": "Gabriel Attal",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "KB",
+      "candidate_name": "Karim Bouamrane",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "MLP",
+      "candidate_name": "Marine Le Pen",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "MT",
+      "candidate_name": "Marine Tondelier",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "NP",
+      "candidate_name": "Natacha Polony",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "RG",
+      "candidate_name": "Raphaël Glucksmann",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "XB",
+      "candidate_name": "Xavier Bertrand",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "EP",
+      "candidate_name": "Édouard Philippe",
+      "verified_questions": 0,
+      "total_questions": 56
+    },
+    {
+      "candidate_id": "EZ",
+      "candidate_name": "Éric Zemmour",
+      "verified_questions": 0,
+      "total_questions": 56
+    }
+  ],
+  "method": "Ne compter comme validé que les liens approuvés dans approved_positions.json; les liens anciens sont conservés mais provisoires."
+}

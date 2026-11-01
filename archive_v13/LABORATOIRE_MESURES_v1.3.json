@@ -1,0 +1,112 @@
+[
+  {
+    "id": "R12-008",
+    "question_id": "Q01",
+    "theme": "Finances publiques",
+    "texte_proposition": "Prône la réduction des doublons administratifs et la simplification de l’action publique.",
+    "candidat_id": "KB",
+    "candidat": "Karim Bouamrane",
+    "source_url": "https://www.karimbouamrane2027.org/manifeste.html",
+    "limite": "Ne prouve pas que ces économies suffiraient à résorber le déficit.",
+    "statut": "Fiche pilote de source personnelle, interprétation encore à contre-vérifier"
+  },
+  {
+    "id": "R12-006",
+    "question_id": "Q07",
+    "theme": "Santé et autonomie",
+    "texte_proposition": "Soutient les maisons de santé pluriprofessionnelles contre les déserts médicaux.",
+    "candidat_id": "BR",
+    "candidat": "Bruno Retailleau",
+    "source_url": "https://www.avecretailleau.fr/projet/faq",
+    "limite": "Le même document évoque aussi une régulation de l’installation : position plurielle.",
+    "statut": "Fiche pilote de source personnelle, interprétation encore à contre-vérifier"
+  },
+  {
+    "id": "F009",
+    "question_id": "Q09",
+    "theme": "Éducation et jeunesse",
+    "texte_proposition": "Autonomie accrue des chefs d’établissement pour le recrutement, la pédagogie et les budgets.",
+    "candidat_id": "DL",
+    "candidat": "David Lisnard",
+    "source_url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+    "limite": "La mesure est compatible avec cette orientation ; elle ne prouve pas que le candidat en fait sa priorité exclusive.",
+    "statut": "Fiche pilote de source personnelle, interprétation encore à contre-vérifier"
+  },
+  {
+    "id": "F020",
+    "question_id": "Q45",
+    "theme": "Retraites et solidarité",
+    "texte_proposition": "Statut des travailleurs essentiels prévoyant notamment une retraite avancée.",
+    "candidat_id": "FR",
+    "candidat": "François Ruffin",
+    "source_url": "https://nouspresident.fr/notre-programme/",
+    "limite": "La mesure est compatible avec cette orientation ; elle ne prouve pas que le candidat en fait sa priorité exclusive.",
+    "statut": "Fiche pilote de source personnelle, interprétation encore à contre-vérifier"
+  },
+  {
+    "id": "R12-033",
+    "question_id": "Q15",
+    "theme": "Climat et énergie",
+    "texte_proposition": "Delphine Batho défend explicitement la décroissance des consommations matérielles comme transition écologique.",
+    "candidat_id": "DB",
+    "candidat": "Delphine Batho",
+    "source_url": "https://www.generationecologie.fr/app/uploads/2025/07/Intervention_de_Delphine_Batho_a_la_convention_nationale_de_Generation-1.pdf",
+    "limite": "Discours personnel antérieur; le lien au seul levier de sobriété reste partiel et pas nécessairement prioritaire.",
+    "statut": "Fiche pilote de source personnelle, interprétation encore à contre-vérifier"
+  },
+  {
+    "id": "F014",
+    "question_id": "Q19",
+    "theme": "Institutions et territoires",
+    "texte_proposition": "Suppression proposée d’un échelon de collectivité pour réduire les doublons.",
+    "candidat_id": "GA",
+    "candidat": "Gabriel Attal",
+    "source_url": "https://attalpresident.fr/programme",
+    "limite": "La mesure est compatible avec cette orientation ; elle ne prouve pas que le candidat en fait sa priorité exclusive.",
+    "statut": "Fiche pilote de source personnelle, interprétation encore à contre-vérifier"
+  },
+  {
+    "id": "V11-020",
+    "question_id": "Q26",
+    "theme": "Logement et aménagement",
+    "texte_proposition": "Investissement supplémentaire de 10 milliards d’euros par an dans le ferroviaire et les transports.",
+    "candidat_id": "FRO",
+    "candidat": "Fabien Roussel",
+    "source_url": "https://www.pcf.fr/face_explosion_des_prix_le_gouvernement_doit_declarer_l_etat_d_urgence_energetique",
+    "limite": "Rapprochement sur une mesure précise : la préférence exclusive pour cette option n’est pas démontrée.",
+    "statut": "Fiche pilote de source personnelle, interprétation encore à contre-vérifier"
+  },
+  {
+    "id": "F007",
+    "question_id": "Q22",
+    "theme": "Europe et souveraineté",
+    "texte_proposition": "Propositions de mesures de protection ciblées contre la concurrence déloyale chinoise.",
+    "candidat_id": "EP",
+    "candidat": "Édouard Philippe",
+    "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+    "limite": "La mesure est compatible avec cette orientation ; elle ne prouve pas que le candidat en fait sa priorité exclusive.",
+    "statut": "Fiche pilote de source personnelle, interprétation encore à contre-vérifier"
+  },
+  {
+    "id": "V11-012",
+    "question_id": "Q31",
+    "theme": "Économie et emploi",
+    "texte_proposition": "Revue systématique des normes et suppression de deux normes pour une nouvelle.",
+    "candidat_id": "BC",
+    "candidat": "Bernard Cazeneuve",
+    "source_url": "https://www.la-convention.fr/lettre",
+    "limite": "Rapprochement sur une mesure précise : la préférence exclusive pour cette option n’est pas démontrée.",
+    "statut": "Fiche pilote de source personnelle, interprétation encore à contre-vérifier"
+  },
+  {
+    "id": "R12-MLP-02",
+    "question_id": "Q16",
+    "theme": "Climat et énergie",
+    "texte_proposition": "Livret intitulé « Projet de Marine Le Pen » : annonce des investissements dans la filière nucléaire et l’hydroélectricité.",
+    "candidat_id": "MLP",
+    "candidat": "Marine Le Pen",
+    "source_url": "https://francaisdeletranger.rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+    "limite": "Document 2026 ; la combinaison précise du mix, les coûts et les délais restent à analyser.",
+    "statut": "Fiche pilote de source personnelle, interprétation encore à contre-vérifier"
+  }
+]
