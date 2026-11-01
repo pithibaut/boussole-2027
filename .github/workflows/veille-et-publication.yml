@@ -1,1 +1,63 @@
-
+name: Boussole 2027 - veille et publication
+on:
+  schedule:
+    # Un passage quotidien, horaire UTC hors des heures de pointe de GitHub.
+    - cron: '17 7 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'config/**'
+      - 'scripts/**'
+      - '.github/workflows/veille-et-publication.yml'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: boussole-pages
+  cancel-in-progress: false
+jobs:
+  veille-publication:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: RÃ©cupÃ©rer le projet
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: PrÃ©parer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Tester le pipeline
+        run: python -m unittest discover -s tests -v
+      - name: Surveiller les sources (quotidien ou manuel)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python scripts/scan_sources.py
+      - name: VÃ©rifier les positions avant diffusion
+        run: python scripts/validate_publish.py
+      - name: Actualiser la matrice des donnÃ©es manquantes
+        run: python scripts/build_coverage.py
+      - name: Archiver les constats et nouveautÃ©s Ã  vÃ©rifier
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name "boussole-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/watch_state.json data/review_queue.json data/research_backlog.json site/data/watch_status.json site/data/coverage_status.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Veille automatique : Ã©tat des sources et Ã©lÃ©ments Ã  vÃ©rifier"
+            git push origin HEAD:main
+          fi
+      - name: Configurer GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: PrÃ©parer les fichiers du site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./site
+      - name: Publier les donnÃ©es validÃ©es et l'Ã©tat de veille
+        id: deployment
+        uses: actions/deploy-pages@v4
