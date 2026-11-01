@@ -1,1 +1,392 @@
-[]
+[
+  {
+    "id": "suggest:c52df71a6e7d3b89",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S035",
+    "candidate_id": "XB",
+    "url": "https://www.nousfrance.fr/les-actualites/",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:4bf9ac544330f806",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S034",
+    "candidate_id": "RG",
+    "url": "https://place-publique.eu/pages/69jA2SKIG5udlNX7wI3dmc/le-projet",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:0421ebcb5ebf5726",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S033",
+    "candidate_id": "NP",
+    "url": "https://www.republique-souveraine.fr/tag/communiques/",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:9590c625a55e0214",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S033",
+    "candidate_id": "NP",
+    "url": "https://www.republique-souveraine.fr/tag/actualites/",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:c989771216149ad4",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S032",
+    "candidate_id": "NP",
+    "url": "https://www.npolony.fr/communiques",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:6223357a4389b824",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S032",
+    "candidate_id": "NP",
+    "url": "https://www.npolony.fr/actualites",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:1857c8b66705b8d5",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S031",
+    "candidate_id": "NP",
+    "url": "https://natachapolony2027.fr/actualites/pourquoi-nous-devons-agir",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:1e2698d4a51a4aa6",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S030",
+    "candidate_id": "MT",
+    "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:8b65534d7fbefff1",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S030",
+    "candidate_id": "MT",
+    "url": "https://marinetondelier.fr/s/Livret-montagne.pdf",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:0205a2be9ec9a68b",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S030",
+    "candidate_id": "MT",
+    "url": "https://marinetondelier.fr/le-programme",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:fa37cf7f6befe586",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S029",
+    "candidate_id": "MT",
+    "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:5e0c67b1ef9d4067",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S029",
+    "candidate_id": "MT",
+    "url": "https://lesecologistes.fr/share/page/6ImK65GKUnvibm33WGkjkj/projet",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:db7c5de9352e3050",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S028",
+    "candidate_id": "MLP",
+    "url": "https://z5pdobgufn.rassemblementnational.fr/documents/202406-programme.pdf",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:f815d013569d09ee",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S028",
+    "candidate_id": "MLP",
+    "url": "https://z5pdobgufn.rassemblementnational.fr/communiques",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:a24f943e58b43606",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S028",
+    "candidate_id": "MLP",
+    "url": "https://z5pdobgufn.rassemblementnational.fr/programme-patriotes-pour-leurope",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:475fa3c0cba12ceb",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S027",
+    "candidate_id": "MLP",
+    "url": "https://www.rassemblementnational.fr/communiques/agences-europeennes-les-patriotes-avaient-raison",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:b16f91e677857744",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S027",
+    "candidate_id": "MLP",
+    "url": "https://www.rassemblementnational.fr/communiques/elargissement-les-risques-sont-connus-mais-bruxelles-sobstine",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:88a681084c6fd184",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S027",
+    "candidate_id": "MLP",
+    "url": "https://www.rassemblementnational.fr/documents/202406-programme.pdf",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:cf076577fb36a1b4",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S024",
+    "candidate_id": "KB",
+    "url": "https://www.karimbouamrane2027.org/output/pdf/manifeste-karim-bouamrane-2027-v2.pdf",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:159e31754a48cd37",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S020",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/plans-thematiques/",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:b62b0e29b4b83ee1",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S020",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/decouvrir/",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:0f10585fab0d4980",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S020",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/laec/",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:8a2698a6f9cac314",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S019",
+    "candidate_id": "GA",
+    "url": "https://attalpresident.fr/programme/travail-salaires",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:bbc8412d3b4822b1",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S019",
+    "candidate_id": "GA",
+    "url": "https://attalpresident.fr/programme/education",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:8e78e539a9687fe6",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S018",
+    "candidate_id": "GA",
+    "url": "https://attalpresident.fr/programme/mesures/cent-mille-postes-en-moins",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:3f8ff000174dbc80",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S018",
+    "candidate_id": "GA",
+    "url": "https://attalpresident.fr/programme/mesures/loi-de-stabilite-fiscale",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:a9ef76b3e7c71efa",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S018",
+    "candidate_id": "GA",
+    "url": "https://attalpresident.fr/actualites",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:a7013603c165f95e",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S010",
+    "candidate_id": "EP",
+    "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:e1d6dc0809e7a632",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S010",
+    "candidate_id": "EP",
+    "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:52cb6ec0f8714eac",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S009",
+    "candidate_id": "DL",
+    "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-le-cheque-education/",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:9ab266cda1444d72",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S009",
+    "candidate_id": "DL",
+    "url": "https://www.unenouvelleenergie.fr/actualites/",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:bd664d54d5bfa56c",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S009",
+    "candidate_id": "DL",
+    "url": "https://www.unenouvelleenergie.fr/notre-programme/",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:695855d70d195049",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S007",
+    "candidate_id": "DB",
+    "url": "https://www.generationecologie.fr/sinformer/nos-positions/nos-communiques/",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:e627ac15e786c187",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S007",
+    "candidate_id": "DB",
+    "url": "https://www.generationecologie.fr/sinformer/nos-positions/nos-actualites/",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:7cd743e38a3b3539",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S003",
+    "candidate_id": "BR",
+    "url": "https://www.avecretailleau.fr/projet/theme/travail",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:a38ae8c1fe1906ff",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S003",
+    "candidate_id": "BR",
+    "url": "https://www.avecretailleau.fr/candidat",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:382a0104f985ca32",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S003",
+    "candidate_id": "BR",
+    "url": "https://www.avecretailleau.fr/projet",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:063a2d2fe5376412",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S002",
+    "candidate_id": "BR",
+    "url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:7b098b0547eedd00",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S002",
+    "candidate_id": "BR",
+    "url": "https://republicains.fr/actualites/",
+    "observed_at": "2026-11-01T16:25:36+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  }
+]
