@@ -1,5 +1,25 @@
 [
   {
+    "id": "S032:10c5db39a3fd8f9d",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S032",
+    "candidate_id": "NP",
+    "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+    "observed_at": "2026-11-02T08:32:19+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S027:764fdabd2d279b41",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S027",
+    "candidate_id": "MLP",
+    "url": "https://www.rassemblementnational.fr/",
+    "observed_at": "2026-11-02T08:32:19+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
     "id": "suggest:c52df71a6e7d3b89",
     "type": "new_page_suggestion",
     "status": "a_verifier",

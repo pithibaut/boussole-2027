@@ -1,10 +1,27 @@
 {
   "schema": 1,
-  "last_run_at": "2026-11-01T16:25:36+00:00",
+  "last_run_at": "2026-11-02T08:32:19+00:00",
   "sources_total": 36,
-  "ok": 28,
-  "errors": 8,
-  "changes": 0,
-  "recent_changes": [],
+  "ok": 27,
+  "errors": 9,
+  "changes": 2,
+  "recent_changes": [
+    {
+      "type": "changed",
+      "candidate_id": "MLP",
+      "candidate_name": "Marine Le Pen",
+      "source_id": "S027",
+      "url": "https://www.rassemblementnational.fr/",
+      "observed_at": "2026-11-02T08:32:19+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "NP",
+      "candidate_name": "Natacha Polony",
+      "source_id": "S032",
+      "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+      "observed_at": "2026-11-02T08:32:19+00:00"
+    }
+  ],
   "note": "Changements de pages détectés automatiquement ; aucune position politique publiée sans validation."
 }
