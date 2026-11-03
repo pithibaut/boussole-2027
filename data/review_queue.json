@@ -1,5 +1,45 @@
 [
   {
+    "id": "S027:9a5febf8d0242f25",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S027",
+    "candidate_id": "MLP",
+    "url": "https://www.rassemblementnational.fr/",
+    "observed_at": "2026-11-03T08:26:13+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S023:8de44d4ec2cccb2d",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S023",
+    "candidate_id": "JLM",
+    "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
+    "observed_at": "2026-11-03T08:26:13+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S009:dab44fac3e61811f",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S009",
+    "candidate_id": "DL",
+    "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+    "observed_at": "2026-11-03T08:26:13+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "suggest:85d8b111b8e19fdb",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S004",
+    "candidate_id": "BR",
+    "url": "https://www.avecretailleau.fr/projet/mesure/elargir-le-referendum-a-toute-la-matiere-legislative-et",
+    "observed_at": "2026-11-03T08:26:13+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
     "id": "S032:10c5db39a3fd8f9d",
     "type": "source_change",
     "status": "a_verifier",
