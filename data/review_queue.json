@@ -1,5 +1,65 @@
 [
   {
+    "id": "S027:55a912668ad1f681",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S027",
+    "candidate_id": "MLP",
+    "url": "https://www.rassemblementnational.fr/",
+    "observed_at": "2026-11-04T08:25:51+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S023:b4213654cff0a857",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S023",
+    "candidate_id": "JLM",
+    "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
+    "observed_at": "2026-11-04T08:25:51+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "suggest:d716063c7e7e23af",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/priorites/priorite-1/",
+    "observed_at": "2026-11-04T08:25:51+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:5cd8dd562b48abb1",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/actualites/",
+    "observed_at": "2026-11-04T08:25:51+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:9e83406d4fffd3f0",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/priorites/",
+    "observed_at": "2026-11-04T08:25:51+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "S006:71b4c80cdb79d74d",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/",
+    "observed_at": "2026-11-04T08:25:51+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
     "id": "S027:9a5febf8d0242f25",
     "type": "source_change",
     "status": "a_verifier",
