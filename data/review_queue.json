@@ -1,5 +1,85 @@
 [
   {
+    "id": "S032:e50389741bb65d0e",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S032",
+    "candidate_id": "NP",
+    "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+    "observed_at": "2026-11-05T08:27:03+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "suggest:704e10780fa25a2e",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S030",
+    "candidate_id": "MT",
+    "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+    "observed_at": "2026-11-05T08:27:03+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "S030:64bb4c5a16924057",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S030",
+    "candidate_id": "MT",
+    "url": "https://marinetondelier.fr/livrets-thematiques",
+    "observed_at": "2026-11-05T08:27:03+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "suggest:8c350f8175bb734c",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S027",
+    "candidate_id": "MLP",
+    "url": "https://www.rassemblementnational.fr/communiques/information-relative-a-la-securite-des-donnees-personnelles-des-adherents-du-rassemblement-national",
+    "observed_at": "2026-11-05T08:27:03+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:3c3729ad5d1b1833",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S027",
+    "candidate_id": "MLP",
+    "url": "https://www.rassemblementnational.fr/communiques/futur-du-posei-face-a-la-demission-du-gouvernement-le-combat-continue-pour-les-agriculteurs-outre-mer",
+    "observed_at": "2026-11-05T08:27:03+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "S027:8bd40442a6484965",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S027",
+    "candidate_id": "MLP",
+    "url": "https://www.rassemblementnational.fr/",
+    "observed_at": "2026-11-05T08:27:03+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S023:7d6b8ffc8a1f37fe",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S023",
+    "candidate_id": "JLM",
+    "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
+    "observed_at": "2026-11-05T08:27:03+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S006:6461b1819296098d",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/",
+    "observed_at": "2026-11-05T08:27:03+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
     "id": "S027:55a912668ad1f681",
     "type": "source_change",
     "status": "a_verifier",
