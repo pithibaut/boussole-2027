@@ -1,5 +1,95 @@
 [
   {
+    "id": "S036:685eb2d7e5ea2d3b",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S036",
+    "candidate_id": "XB",
+    "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
+    "observed_at": "2026-11-06T08:23:52+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S035:5dbf4eaa48e9a944",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S035",
+    "candidate_id": "XB",
+    "url": "https://www.nousfrance.fr/2026/03/lettre-aux-maires-de-xavier-bertrand/",
+    "observed_at": "2026-11-06T08:23:52+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S032:439827478b849bb4",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S032",
+    "candidate_id": "NP",
+    "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+    "observed_at": "2026-11-06T08:23:52+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S023:2c43b3be221a2ef0",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S023",
+    "candidate_id": "JLM",
+    "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
+    "observed_at": "2026-11-06T08:23:52+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S022:f736d76fc9c3b240",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S022",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/synthese-des-contributions/",
+    "observed_at": "2026-11-06T08:23:52+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S021:2b49a2f9d9ee2a35",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S021",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+    "observed_at": "2026-11-06T08:23:52+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S020:e667493487aa8ac1",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S020",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+    "observed_at": "2026-11-06T08:23:52+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "suggest:fc4788530b2b2fd1",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/priorites/la-pleine-sante/",
+    "observed_at": "2026-11-06T08:23:52+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "S006:aff538d4c03dff38",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/",
+    "observed_at": "2026-11-06T08:23:52+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
     "id": "S032:e50389741bb65d0e",
     "type": "source_change",
     "status": "a_verifier",

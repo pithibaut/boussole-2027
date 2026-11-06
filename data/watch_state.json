@@ -2,31 +2,31 @@
   "S001": {
     "url": "https://www.la-convention.fr/lettre",
     "candidate_id": "BC",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "last_error": "HTTP Error 403: Forbidden"
   },
   "S002": {
     "url": "https://republicains.fr/nos-propositions/",
     "candidate_id": "BR",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "81e9c9b62b76caad233199cd23239072b330e4ee719e8605c6a59d2d2da6b850",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S003": {
     "url": "https://www.avecretailleau.fr/projet/faq",
     "candidate_id": "BR",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "977ecb98915377daf2000488a8e121e95ea124a40411eabcdf7e841b6a8dcbb3",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S004": {
     "url": "https://www.avecretailleau.fr/projet/theme/institutions",
     "candidate_id": "BR",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "last_error": "The read operation timed out",
     "fingerprint": "00a4250e3dc5fea61f9205fcc82761bf9734493c72ef05d9d389ea15376d2a55",
     "last_success": "2026-11-03T08:26:13+00:00",
@@ -35,196 +35,196 @@
   "S005": {
     "url": "https://generationecologie.fr/a-propos/generation-ecologie/notre-projet/",
     "candidate_id": "DB",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "feafdc2e2894babce387a67873a554273e8680849a216ebc157028e688e59ca8",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S006": {
     "url": "https://www.delphinebatho.fr/",
     "candidate_id": "DB",
-    "last_checked": "2026-11-05T08:27:03+00:00",
-    "fingerprint": "6461b1819296098d140c681b0d039379858ec9f8ff3c52fb26468d5277546aee",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
+    "fingerprint": "aff538d4c03dff38e1b5439075c6b425622160b6bde59f437504567fc4df13ea",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S007": {
     "url": "https://www.generationecologie.fr/a-propos/generation-ecologie/notre-projet/",
     "candidate_id": "DB",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "feafdc2e2894babce387a67873a554273e8680849a216ebc157028e688e59ca8",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S008": {
     "url": "https://www.generationecologie.fr/app/uploads/2025/07/Intervention_de_Delphine_Batho_a_la_convention_nationale_de_Generation-1.pdf",
     "candidate_id": "DB",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "last_error": "HTTP Error 404: Not Found"
   },
   "S009": {
     "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
     "candidate_id": "DL",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "dab44fac3e61811fafdcee5129e3a3fbb3df69a2f6c1aa45f1feadb7cd179d03",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S010": {
     "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
     "candidate_id": "EP",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "f5147a17c9cee914f485f19ab7de2ce06b239199a2539660fbb749a880b9a51c",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S011": {
     "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
     "candidate_id": "EP",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "808485bc1fd82acc8067df2508d1645d202e1daf82672b0616447254a4ec1887",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S012": {
     "url": "https://www.ericzemmour.fr/identite",
     "candidate_id": "EZ",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "last_error": "HTTP Error 403: Forbidden"
   },
   "S013": {
     "url": "https://www.ericzemmour.fr/instruction",
     "candidate_id": "EZ",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "last_error": "HTTP Error 403: Forbidden"
   },
   "S014": {
     "url": "https://www.ericzemmour.fr/priorites",
     "candidate_id": "EZ",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "last_error": "HTTP Error 403: Forbidden"
   },
   "S015": {
     "url": "https://nouspresident.fr/face-a-la-crise-du-logement/",
     "candidate_id": "FR",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "09c08ed3de08083e9aa83412dec45210b3759bbca656ab592db74b6baa44219e",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S016": {
     "url": "https://nouspresident.fr/notre-programme/",
     "candidate_id": "FR",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "a005e3234cd7a3d05b9a9b9c61e1baa106a930a82592d824c11c60c543383d87",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S017": {
     "url": "https://www.pcf.fr/face_explosion_des_prix_le_gouvernement_doit_declarer_l_etat_d_urgence_energetique",
     "candidate_id": "FRO",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "last_error": "HTTP Error 403: Forbidden"
   },
   "S018": {
     "url": "https://attalpresident.fr/actualites/gabriel-attal-lettre-aux-francais-plan-finances-publiques",
     "candidate_id": "GA",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "2decb4be5fcbc641f1a939e9883b17b856e6ffa01d2c2b442b564d1f7356fda9",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S019": {
     "url": "https://attalpresident.fr/programme",
     "candidate_id": "GA",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "ecc5392d642b626653d37e5932b28c6d89d855c4476f5cc24f34d506d0014b12",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S020": {
     "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
     "candidate_id": "JLM",
-    "last_checked": "2026-11-05T08:27:03+00:00",
-    "fingerprint": "232dd48bd707a8042bcae7d80af36725aea2ac49016aaad51fc2e6148173b1ec",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
+    "fingerprint": "e667493487aa8ac1bca1b5f480a256ed7eb439d4b6121b6d2c07fb897be086c4",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S021": {
     "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
     "candidate_id": "JLM",
-    "last_checked": "2026-11-05T08:27:03+00:00",
-    "fingerprint": "a19bdb5a90667ccad25b84a4193cbe11fea43a37a733715d8c0d8966bdb61835",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
+    "fingerprint": "2b49a2f9d9ee2a3564e8a52646adb7534722a04720a33855287e57bab8d7926a",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S022": {
     "url": "https://melenchon2027.fr/programme/synthese-des-contributions/",
     "candidate_id": "JLM",
-    "last_checked": "2026-11-05T08:27:03+00:00",
-    "fingerprint": "728d3af48444c7791a9a18e338aa723814e6e74ee1e3715c2093e3029bf61b60",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
+    "fingerprint": "f736d76fc9c3b24019d0e0d6bf07df4f320c0ffacadd16f0bf9466424a31ca13",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S023": {
     "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
     "candidate_id": "JLM",
-    "last_checked": "2026-11-05T08:27:03+00:00",
-    "fingerprint": "7d6b8ffc8a1f37fef6655e7480d715f35d51d084f42805d40041695c02e35022",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
+    "fingerprint": "2c43b3be221a2ef0fd211858969da49734611d518092215ad1f41fbbc5410f80",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S024": {
     "url": "https://www.karimbouamrane2027.org/manifeste.html",
     "candidate_id": "KB",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "fdc0b16ebd0b594b25b9b24893df6a658a74657f5edbbe4586fc08e974071ee4",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S025": {
     "url": "https://francaisdeletranger.rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
     "candidate_id": "MLP",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "last_error": "Document trop volumineux pour la surveillance gratuite"
   },
   "S026": {
     "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
     "candidate_id": "MLP",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "800c6620d215ee12ad7166e3ad2e25da6c5b4de79e141e572118341e4f92a24b",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "pdf"
   },
   "S027": {
     "url": "https://www.rassemblementnational.fr/",
     "candidate_id": "MLP",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "8bd40442a6484965d2967cb9128042eecc5aaacfff0b686a0972199c3fb52641",
     "last_success": "2026-11-05T08:27:03+00:00",
-    "last_error": null,
+    "last_error": "HTTP Error 307: Temporary Redirect",
     "format": "html"
   },
   "S028": {
     "url": "https://z5pdobgufn.rassemblementnational.fr/22-mesures",
     "candidate_id": "MLP",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "94e2b8392d952ead0ab5f32c61e78542909a00c41cf989ce7a9c1aeca5e3aa11",
     "last_success": "2026-11-04T08:25:51+00:00",
     "last_error": "HTTP Error 401: Unauthorized",
@@ -233,72 +233,72 @@
   "S029": {
     "url": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
     "candidate_id": "MT",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "481b8a7d14d1faea7139ba6bebfad38c0b975d497f19a1b5418c2f19958c3818",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S030": {
     "url": "https://marinetondelier.fr/livrets-thematiques",
     "candidate_id": "MT",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "64bb4c5a16924057a10ff9679fc3cb786fcad20af7cbfbeaed5206e66504eae0",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S031": {
     "url": "https://natachapolony2027.fr/",
     "candidate_id": "NP",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "5a17b8fdaf6c64d712a390b611fd358201f142a1f3ab0c184fb82380a89cf50b",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S032": {
     "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
     "candidate_id": "NP",
-    "last_checked": "2026-11-05T08:27:03+00:00",
-    "fingerprint": "e50389741bb65d0e7648e129196df2dcee9e35e049f1aca08c4d0384c9af1dd8",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
+    "fingerprint": "439827478b849bb435d9810f5d73ba3228b59d632c159792a3a247abac8d648e",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S033": {
     "url": "https://www.republique-souveraine.fr/natacha-polony-2027/",
     "candidate_id": "NP",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "97f842c60a4237bb27a91a775271dc08bea6693fe173a23835aea2c7c0d058e2",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S034": {
     "url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
     "candidate_id": "RG",
-    "last_checked": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
     "fingerprint": "42368f07b9cc6603e215aace51b306756ef7677b522eb30da29c2edfcc68f689",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S035": {
     "url": "https://www.nousfrance.fr/2026/03/lettre-aux-maires-de-xavier-bertrand/",
     "candidate_id": "XB",
-    "last_checked": "2026-11-05T08:27:03+00:00",
-    "fingerprint": "d4c42a71f8026d4e52f59ab3f50271fce0109aa2876a650b326036e4f2c9726e",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
+    "fingerprint": "5dbf4eaa48e9a9443dd1bf870ccc9f4f2b31166602c0b3e93cb1be7cd8da6978",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   },
   "S036": {
     "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
     "candidate_id": "XB",
-    "last_checked": "2026-11-05T08:27:03+00:00",
-    "fingerprint": "cc891cb3508dc80482749d6f00a877ab33970cb08edfdd99264044473bef122f",
-    "last_success": "2026-11-05T08:27:03+00:00",
+    "last_checked": "2026-11-06T08:23:52+00:00",
+    "fingerprint": "685eb2d7e5ea2d3bcb6517ecedf40c0f55b3296e160b9f1ad25b9404c253efb7",
+    "last_success": "2026-11-06T08:23:52+00:00",
     "last_error": null,
     "format": "html"
   }
