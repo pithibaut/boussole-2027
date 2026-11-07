@@ -1,5 +1,55 @@
 [
   {
+    "id": "S032:6e25819136b20b37",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S032",
+    "candidate_id": "NP",
+    "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+    "observed_at": "2026-11-07T08:12:46+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S022:728d3af48444c779",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S022",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/synthese-des-contributions/",
+    "observed_at": "2026-11-07T08:12:46+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S021:a19bdb5a90667cca",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S021",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+    "observed_at": "2026-11-07T08:12:46+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S020:232dd48bd707a804",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S020",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+    "observed_at": "2026-11-07T08:12:46+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S006:1b1b7707285b44c6",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/",
+    "observed_at": "2026-11-07T08:12:46+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
     "id": "S036:685eb2d7e5ea2d3b",
     "type": "source_change",
     "status": "a_verifier",
