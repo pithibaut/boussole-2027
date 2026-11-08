@@ -1,11 +1,51 @@
 {
   "schema": 1,
-  "last_run_at": "2026-11-07T08:12:46+00:00",
+  "last_run_at": "2026-11-08T08:13:01+00:00",
   "sources_total": 36,
   "ok": 27,
   "errors": 9,
-  "changes": 6,
+  "changes": 5,
   "recent_changes": [
+    {
+      "type": "changed",
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "source_id": "S006",
+      "url": "https://www.delphinebatho.fr/",
+      "observed_at": "2026-11-08T08:13:01+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "source_id": "S020",
+      "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "observed_at": "2026-11-08T08:13:01+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "source_id": "S021",
+      "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+      "observed_at": "2026-11-08T08:13:01+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "source_id": "S022",
+      "url": "https://melenchon2027.fr/programme/synthese-des-contributions/",
+      "observed_at": "2026-11-08T08:13:01+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "source_id": "S023",
+      "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
+      "observed_at": "2026-11-08T08:13:01+00:00"
+    },
     {
       "type": "changed",
       "candidate_id": "DB",
@@ -165,46 +205,6 @@
       "source_id": "S006",
       "url": "https://www.delphinebatho.fr/",
       "observed_at": "2026-11-04T08:25:51+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "JLM",
-      "candidate_name": "Jean-Luc Mélenchon",
-      "source_id": "S023",
-      "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
-      "observed_at": "2026-11-04T08:25:51+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "MLP",
-      "candidate_name": "Marine Le Pen",
-      "source_id": "S027",
-      "url": "https://www.rassemblementnational.fr/",
-      "observed_at": "2026-11-04T08:25:51+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "DL",
-      "candidate_name": "David Lisnard",
-      "source_id": "S009",
-      "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
-      "observed_at": "2026-11-03T08:26:13+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "JLM",
-      "candidate_name": "Jean-Luc Mélenchon",
-      "source_id": "S023",
-      "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
-      "observed_at": "2026-11-03T08:26:13+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "MLP",
-      "candidate_name": "Marine Le Pen",
-      "source_id": "S027",
-      "url": "https://www.rassemblementnational.fr/",
-      "observed_at": "2026-11-03T08:26:13+00:00"
     }
   ],
   "note": "Changements de pages détectés automatiquement ; aucune position politique publiée sans validation."

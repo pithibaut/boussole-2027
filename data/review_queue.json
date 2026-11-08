@@ -1,5 +1,95 @@
 [
   {
+    "id": "suggest:794a672cb00e6aba",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S023",
+    "candidate_id": "JLM",
+    "url": "https://programme.lafranceinsoumise.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre1",
+    "observed_at": "2026-11-08T08:13:01+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:9fe19f3b09d4ff5d",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S023",
+    "candidate_id": "JLM",
+    "url": "https://programme.lafranceinsoumise.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale",
+    "observed_at": "2026-11-08T08:13:01+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:9cbe7396fe51cf55",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S023",
+    "candidate_id": "JLM",
+    "url": "https://programme.lafranceinsoumise.fr/programme/livre/introduction",
+    "observed_at": "2026-11-08T08:13:01+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "S023:36c00c5620980f9e",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S023",
+    "candidate_id": "JLM",
+    "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
+    "observed_at": "2026-11-08T08:13:01+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S022:9987eb5d3a8bf9c2",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S022",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/synthese-des-contributions/",
+    "observed_at": "2026-11-08T08:13:01+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S021:2de1180de160b26a",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S021",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+    "observed_at": "2026-11-08T08:13:01+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "suggest:067502764f66187b",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S020",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/livre/",
+    "observed_at": "2026-11-08T08:13:01+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "S020:1bb553a442bd1f50",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S020",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+    "observed_at": "2026-11-08T08:13:01+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S006:baea268a2214f32e",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/",
+    "observed_at": "2026-11-08T08:13:01+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
     "id": "S032:6e25819136b20b37",
     "type": "source_change",
     "status": "a_verifier",
