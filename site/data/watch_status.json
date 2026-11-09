@@ -1,11 +1,27 @@
 {
   "schema": 1,
-  "last_run_at": "2026-11-08T08:13:01+00:00",
+  "last_run_at": "2026-11-09T08:37:38+00:00",
   "sources_total": 36,
-  "ok": 27,
-  "errors": 9,
-  "changes": 5,
+  "ok": 26,
+  "errors": 10,
+  "changes": 2,
   "recent_changes": [
+    {
+      "type": "changed",
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "source_id": "S006",
+      "url": "https://www.delphinebatho.fr/",
+      "observed_at": "2026-11-09T08:37:38+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "NP",
+      "candidate_name": "Natacha Polony",
+      "source_id": "S032",
+      "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+      "observed_at": "2026-11-09T08:37:38+00:00"
+    },
     {
       "type": "changed",
       "candidate_id": "DB",
@@ -189,22 +205,6 @@
       "source_id": "S030",
       "url": "https://marinetondelier.fr/livrets-thematiques",
       "observed_at": "2026-11-05T08:27:03+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "NP",
-      "candidate_name": "Natacha Polony",
-      "source_id": "S032",
-      "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
-      "observed_at": "2026-11-05T08:27:03+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "DB",
-      "candidate_name": "Delphine Batho",
-      "source_id": "S006",
-      "url": "https://www.delphinebatho.fr/",
-      "observed_at": "2026-11-04T08:25:51+00:00"
     }
   ],
   "note": "Changements de pages détectés automatiquement ; aucune position politique publiée sans validation."
