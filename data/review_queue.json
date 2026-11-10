@@ -1,5 +1,45 @@
 [
   {
+    "id": "S032:641fdadd72e838a8",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S032",
+    "candidate_id": "NP",
+    "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+    "observed_at": "2026-11-10T08:25:52+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "suggest:47a9401f5eae8ae1",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S030",
+    "candidate_id": "MT",
+    "url": "https://marinetondelier.fr/s/livret-culture.pdf",
+    "observed_at": "2026-11-10T08:25:52+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "S030:a73ebb82b2ddd030",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S030",
+    "candidate_id": "MT",
+    "url": "https://marinetondelier.fr/livrets-thematiques",
+    "observed_at": "2026-11-10T08:25:52+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S006:605136936588ed00",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/",
+    "observed_at": "2026-11-10T08:25:52+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
     "id": "S032:3a15baeea5f47a35",
     "type": "source_change",
     "status": "a_verifier",
