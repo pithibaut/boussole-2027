@@ -1,11 +1,27 @@
 {
   "schema": 1,
-  "last_run_at": "2026-11-10T08:25:52+00:00",
+  "last_run_at": "2026-11-11T08:24:53+00:00",
   "sources_total": 36,
-  "ok": 26,
-  "errors": 10,
-  "changes": 3,
+  "ok": 29,
+  "errors": 7,
+  "changes": 2,
   "recent_changes": [
+    {
+      "type": "changed",
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "source_id": "S006",
+      "url": "https://www.delphinebatho.fr/",
+      "observed_at": "2026-11-11T08:24:53+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "source_id": "S021",
+      "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+      "observed_at": "2026-11-11T08:24:53+00:00"
+    },
     {
       "type": "changed",
       "candidate_id": "DB",
@@ -189,22 +205,6 @@
       "source_id": "S035",
       "url": "https://www.nousfrance.fr/2026/03/lettre-aux-maires-de-xavier-bertrand/",
       "observed_at": "2026-11-06T08:23:52+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "XB",
-      "candidate_name": "Xavier Bertrand",
-      "source_id": "S036",
-      "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
-      "observed_at": "2026-11-06T08:23:52+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "DB",
-      "candidate_name": "Delphine Batho",
-      "source_id": "S006",
-      "url": "https://www.delphinebatho.fr/",
-      "observed_at": "2026-11-05T08:27:03+00:00"
     }
   ],
   "note": "Changements de pages détectés automatiquement ; aucune position politique publiée sans validation."

@@ -1,5 +1,25 @@
 [
   {
+    "id": "S021:ee45c177e6a59f9c",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S021",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+    "observed_at": "2026-11-11T08:24:53+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S006:f8c749576939d40b",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/",
+    "observed_at": "2026-11-11T08:24:53+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
     "id": "S032:641fdadd72e838a8",
     "type": "source_change",
     "status": "a_verifier",
