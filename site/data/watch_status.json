@@ -1,11 +1,99 @@
 {
   "schema": 1,
-  "last_run_at": "2026-11-12T08:27:34+00:00",
+  "last_run_at": "2026-11-13T08:26:25+00:00",
   "sources_total": 36,
   "ok": 29,
   "errors": 7,
-  "changes": 2,
+  "changes": 11,
   "recent_changes": [
+    {
+      "type": "changed",
+      "candidate_id": "BR",
+      "candidate_name": "Bruno Retailleau",
+      "source_id": "S003",
+      "url": "https://www.avecretailleau.fr/projet/faq",
+      "observed_at": "2026-11-13T08:26:25+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "source_id": "S006",
+      "url": "https://www.delphinebatho.fr/",
+      "observed_at": "2026-11-13T08:26:25+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "EP",
+      "candidate_name": "Édouard Philippe",
+      "source_id": "S010",
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "observed_at": "2026-11-13T08:26:25+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "EP",
+      "candidate_name": "Édouard Philippe",
+      "source_id": "S011",
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "observed_at": "2026-11-13T08:26:25+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "FR",
+      "candidate_name": "François Ruffin",
+      "source_id": "S016",
+      "url": "https://nouspresident.fr/notre-programme/",
+      "observed_at": "2026-11-13T08:26:25+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "source_id": "S020",
+      "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "observed_at": "2026-11-13T08:26:25+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "source_id": "S021",
+      "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+      "observed_at": "2026-11-13T08:26:25+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "source_id": "S022",
+      "url": "https://melenchon2027.fr/programme/synthese-des-contributions/",
+      "observed_at": "2026-11-13T08:26:25+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "JLM",
+      "candidate_name": "Jean-Luc Mélenchon",
+      "source_id": "S023",
+      "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
+      "observed_at": "2026-11-13T08:26:25+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "MT",
+      "candidate_name": "Marine Tondelier",
+      "source_id": "S029",
+      "url": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+      "observed_at": "2026-11-13T08:26:25+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "NP",
+      "candidate_name": "Natacha Polony",
+      "source_id": "S033",
+      "url": "https://www.republique-souveraine.fr/natacha-polony-2027/",
+      "observed_at": "2026-11-13T08:26:25+00:00"
+    },
     {
       "type": "changed",
       "candidate_id": "DB",
@@ -117,94 +205,6 @@
       "source_id": "S023",
       "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
       "observed_at": "2026-11-08T08:13:01+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "DB",
-      "candidate_name": "Delphine Batho",
-      "source_id": "S006",
-      "url": "https://www.delphinebatho.fr/",
-      "observed_at": "2026-11-07T08:12:46+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "JLM",
-      "candidate_name": "Jean-Luc Mélenchon",
-      "source_id": "S020",
-      "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
-      "observed_at": "2026-11-07T08:12:46+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "JLM",
-      "candidate_name": "Jean-Luc Mélenchon",
-      "source_id": "S021",
-      "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
-      "observed_at": "2026-11-07T08:12:46+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "JLM",
-      "candidate_name": "Jean-Luc Mélenchon",
-      "source_id": "S022",
-      "url": "https://melenchon2027.fr/programme/synthese-des-contributions/",
-      "observed_at": "2026-11-07T08:12:46+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "JLM",
-      "candidate_name": "Jean-Luc Mélenchon",
-      "source_id": "S023",
-      "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
-      "observed_at": "2026-11-07T08:12:46+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "NP",
-      "candidate_name": "Natacha Polony",
-      "source_id": "S032",
-      "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
-      "observed_at": "2026-11-07T08:12:46+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "DB",
-      "candidate_name": "Delphine Batho",
-      "source_id": "S006",
-      "url": "https://www.delphinebatho.fr/",
-      "observed_at": "2026-11-06T08:23:52+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "JLM",
-      "candidate_name": "Jean-Luc Mélenchon",
-      "source_id": "S020",
-      "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
-      "observed_at": "2026-11-06T08:23:52+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "JLM",
-      "candidate_name": "Jean-Luc Mélenchon",
-      "source_id": "S021",
-      "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
-      "observed_at": "2026-11-06T08:23:52+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "JLM",
-      "candidate_name": "Jean-Luc Mélenchon",
-      "source_id": "S022",
-      "url": "https://melenchon2027.fr/programme/synthese-des-contributions/",
-      "observed_at": "2026-11-06T08:23:52+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "JLM",
-      "candidate_name": "Jean-Luc Mélenchon",
-      "source_id": "S023",
-      "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
-      "observed_at": "2026-11-06T08:23:52+00:00"
     }
   ],
   "note": "Changements de pages détectés automatiquement ; aucune position politique publiée sans validation."

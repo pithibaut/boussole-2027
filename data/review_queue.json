@@ -1,5 +1,155 @@
 [
   {
+    "id": "suggest:20a4b56a3894c0ef",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S033",
+    "candidate_id": "NP",
+    "url": "https://www.republique-souveraine.fr/analyse-du-programme-de-la-france-insoumise/",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "S033:515edf2188d3ec98",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S033",
+    "candidate_id": "NP",
+    "url": "https://www.republique-souveraine.fr/natacha-polony-2027/",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S029:0d5c934b49d79b3e",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S029",
+    "candidate_id": "MT",
+    "url": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S023:e1d9c55d01b9e5ba",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S023",
+    "candidate_id": "JLM",
+    "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S022:a9cfadb9451b4f95",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S022",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/synthese-des-contributions/",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S021:492d196d3cad37bc",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S021",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S020:c6cb26efd61eaeb1",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S020",
+    "candidate_id": "JLM",
+    "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S016:eabfb5dbae83d2fe",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S016",
+    "candidate_id": "FR",
+    "url": "https://nouspresident.fr/notre-programme/",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S011:4b2625df76654caa",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S011",
+    "candidate_id": "EP",
+    "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "suggest:e1c89a5dd75035d8",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S010",
+    "candidate_id": "EP",
+    "url": "https://www.edouardphilippe.fr/programme/justice",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:5217d314ba32cee6",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S010",
+    "candidate_id": "EP",
+    "url": "https://www.edouardphilippe.fr/actualites",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "suggest:e2ab02662e39130f",
+    "type": "new_page_suggestion",
+    "status": "a_verifier",
+    "source_id": "S010",
+    "candidate_id": "EP",
+    "url": "https://www.edouardphilippe.fr/programme",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Page candidate à contrôler avant de l’ajouter au registre. Ne pas traiter comme position politique."
+  },
+  {
+    "id": "S010:4b2625df76654caa",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S010",
+    "candidate_id": "EP",
+    "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S006:b72dd613a0216d20",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S003:09992e34bbfd1c27",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S003",
+    "candidate_id": "BR",
+    "url": "https://www.avecretailleau.fr/projet/faq",
+    "observed_at": "2026-11-13T08:26:25+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
     "id": "S032:914cd953a1cb6a8d",
     "type": "source_change",
     "status": "a_verifier",
