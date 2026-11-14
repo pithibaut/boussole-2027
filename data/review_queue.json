@@ -1,5 +1,25 @@
 [
   {
+    "id": "S032:50fe121840e8af87",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S032",
+    "candidate_id": "NP",
+    "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+    "observed_at": "2026-11-14T08:14:22+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S006:e56e6eb909c8fb77",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/",
+    "observed_at": "2026-11-14T08:14:22+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
     "id": "suggest:20a4b56a3894c0ef",
     "type": "new_page_suggestion",
     "status": "a_verifier",
