@@ -1,11 +1,27 @@
 {
   "schema": 1,
-  "last_run_at": "2026-11-14T08:14:22+00:00",
+  "last_run_at": "2026-11-15T08:18:34+00:00",
   "sources_total": 36,
-  "ok": 29,
-  "errors": 7,
+  "ok": 28,
+  "errors": 8,
   "changes": 2,
   "recent_changes": [
+    {
+      "type": "changed",
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "source_id": "S006",
+      "url": "https://www.delphinebatho.fr/",
+      "observed_at": "2026-11-15T08:18:34+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "NP",
+      "candidate_name": "Natacha Polony",
+      "source_id": "S032",
+      "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+      "observed_at": "2026-11-15T08:18:34+00:00"
+    },
     {
       "type": "changed",
       "candidate_id": "DB",
@@ -188,22 +204,6 @@
       "candidate_name": "Delphine Batho",
       "source_id": "S006",
       "url": "https://www.delphinebatho.fr/",
-      "observed_at": "2026-11-08T08:13:01+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "JLM",
-      "candidate_name": "Jean-Luc Mélenchon",
-      "source_id": "S020",
-      "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
-      "observed_at": "2026-11-08T08:13:01+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "JLM",
-      "candidate_name": "Jean-Luc Mélenchon",
-      "source_id": "S021",
-      "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
       "observed_at": "2026-11-08T08:13:01+00:00"
     }
   ],
