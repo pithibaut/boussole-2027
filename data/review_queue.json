@@ -1,5 +1,35 @@
 [
   {
+    "id": "S016:1073796c57607587",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S016",
+    "candidate_id": "FR",
+    "url": "https://nouspresident.fr/notre-programme/",
+    "observed_at": "2026-11-17T08:28:41+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S009:8fde88b3fc74a34f",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S009",
+    "candidate_id": "DL",
+    "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+    "observed_at": "2026-11-17T08:28:41+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S006:08c9f2799225274a",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/",
+    "observed_at": "2026-11-17T08:28:41+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
     "id": "S032:0c7b77efe3ab6a4f",
     "type": "source_change",
     "status": "a_verifier",
