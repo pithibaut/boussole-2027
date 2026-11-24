@@ -1,11 +1,51 @@
 {
   "schema": 1,
-  "last_run_at": "2026-11-23T08:47:39+00:00",
+  "last_run_at": "2026-11-24T08:36:59+00:00",
   "sources_total": 36,
   "ok": 29,
   "errors": 7,
-  "changes": 2,
+  "changes": 5,
   "recent_changes": [
+    {
+      "type": "changed",
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "source_id": "S006",
+      "url": "https://www.delphinebatho.fr/",
+      "observed_at": "2026-11-24T08:36:59+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "EP",
+      "candidate_name": "Édouard Philippe",
+      "source_id": "S010",
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "observed_at": "2026-11-24T08:36:59+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "EP",
+      "candidate_name": "Édouard Philippe",
+      "source_id": "S011",
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "observed_at": "2026-11-24T08:36:59+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "GA",
+      "candidate_name": "Gabriel Attal",
+      "source_id": "S018",
+      "url": "https://attalpresident.fr/actualites/gabriel-attal-lettre-aux-francais-plan-finances-publiques",
+      "observed_at": "2026-11-24T08:36:59+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "GA",
+      "candidate_name": "Gabriel Attal",
+      "source_id": "S019",
+      "url": "https://attalpresident.fr/programme",
+      "observed_at": "2026-11-24T08:36:59+00:00"
+    },
     {
       "type": "changed",
       "candidate_id": "DB",
@@ -165,46 +205,6 @@
       "source_id": "S006",
       "url": "https://www.delphinebatho.fr/",
       "observed_at": "2026-11-20T08:30:15+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "NP",
-      "candidate_name": "Natacha Polony",
-      "source_id": "S032",
-      "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
-      "observed_at": "2026-11-20T08:30:15+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "DB",
-      "candidate_name": "Delphine Batho",
-      "source_id": "S006",
-      "url": "https://www.delphinebatho.fr/",
-      "observed_at": "2026-11-19T08:32:45+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "EP",
-      "candidate_name": "Édouard Philippe",
-      "source_id": "S010",
-      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
-      "observed_at": "2026-11-19T08:32:45+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "EP",
-      "candidate_name": "Édouard Philippe",
-      "source_id": "S011",
-      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
-      "observed_at": "2026-11-19T08:32:45+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "NP",
-      "candidate_name": "Natacha Polony",
-      "source_id": "S032",
-      "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
-      "observed_at": "2026-11-19T08:32:45+00:00"
     }
   ],
   "note": "Changements de pages détectés automatiquement ; aucune position politique publiée sans validation."
