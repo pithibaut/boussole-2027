@@ -1,11 +1,27 @@
 {
   "schema": 1,
-  "last_run_at": "2026-11-24T08:36:59+00:00",
+  "last_run_at": "2026-11-25T08:41:02+00:00",
   "sources_total": 36,
-  "ok": 29,
-  "errors": 7,
-  "changes": 5,
+  "ok": 32,
+  "errors": 4,
+  "changes": 2,
   "recent_changes": [
+    {
+      "type": "changed",
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "source_id": "S006",
+      "url": "https://www.delphinebatho.fr/",
+      "observed_at": "2026-11-25T08:41:02+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "MT",
+      "candidate_name": "Marine Tondelier",
+      "source_id": "S030",
+      "url": "https://marinetondelier.fr/livrets-thematiques",
+      "observed_at": "2026-11-25T08:41:02+00:00"
+    },
     {
       "type": "changed",
       "candidate_id": "DB",
@@ -189,22 +205,6 @@
       "source_id": "S023",
       "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_21_EMPLOI_web-ok.pdf",
       "observed_at": "2026-11-21T08:21:24+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "BR",
-      "candidate_name": "Bruno Retailleau",
-      "source_id": "S004",
-      "url": "https://www.avecretailleau.fr/projet/theme/institutions",
-      "observed_at": "2026-11-20T08:30:15+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "DB",
-      "candidate_name": "Delphine Batho",
-      "source_id": "S006",
-      "url": "https://www.delphinebatho.fr/",
-      "observed_at": "2026-11-20T08:30:15+00:00"
     }
   ],
   "note": "Changements de pages détectés automatiquement ; aucune position politique publiée sans validation."
