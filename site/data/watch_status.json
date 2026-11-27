@@ -1,11 +1,59 @@
 {
   "schema": 1,
-  "last_run_at": "2026-11-26T08:38:50+00:00",
+  "last_run_at": "2026-11-27T08:38:02+00:00",
   "sources_total": 36,
   "ok": 31,
   "errors": 5,
-  "changes": 5,
+  "changes": 6,
   "recent_changes": [
+    {
+      "type": "changed",
+      "candidate_id": "BR",
+      "candidate_name": "Bruno Retailleau",
+      "source_id": "S004",
+      "url": "https://www.avecretailleau.fr/projet/theme/institutions",
+      "observed_at": "2026-11-27T08:38:02+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "source_id": "S006",
+      "url": "https://www.delphinebatho.fr/",
+      "observed_at": "2026-11-27T08:38:02+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "EP",
+      "candidate_name": "Édouard Philippe",
+      "source_id": "S010",
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "observed_at": "2026-11-27T08:38:02+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "EP",
+      "candidate_name": "Édouard Philippe",
+      "source_id": "S011",
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "observed_at": "2026-11-27T08:38:02+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "MT",
+      "candidate_name": "Marine Tondelier",
+      "source_id": "S029",
+      "url": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+      "observed_at": "2026-11-27T08:38:02+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "NP",
+      "candidate_name": "Natacha Polony",
+      "source_id": "S032",
+      "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+      "observed_at": "2026-11-27T08:38:02+00:00"
+    },
     {
       "type": "changed",
       "candidate_id": "BR",
@@ -157,54 +205,6 @@
       "source_id": "S014",
       "url": "https://www.ericzemmour.fr/priorites",
       "observed_at": "2026-11-22T08:20:56+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "NP",
-      "candidate_name": "Natacha Polony",
-      "source_id": "S032",
-      "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
-      "observed_at": "2026-11-22T08:20:56+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "DB",
-      "candidate_name": "Delphine Batho",
-      "source_id": "S006",
-      "url": "https://www.delphinebatho.fr/",
-      "observed_at": "2026-11-21T08:21:24+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "DL",
-      "candidate_name": "David Lisnard",
-      "source_id": "S009",
-      "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
-      "observed_at": "2026-11-21T08:21:24+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "EP",
-      "candidate_name": "Édouard Philippe",
-      "source_id": "S010",
-      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
-      "observed_at": "2026-11-21T08:21:24+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "EP",
-      "candidate_name": "Édouard Philippe",
-      "source_id": "S011",
-      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
-      "observed_at": "2026-11-21T08:21:24+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "FR",
-      "candidate_name": "François Ruffin",
-      "source_id": "S015",
-      "url": "https://nouspresident.fr/face-a-la-crise-du-logement/",
-      "observed_at": "2026-11-21T08:21:24+00:00"
     }
   ],
   "note": "Changements de pages détectés automatiquement ; aucune position politique publiée sans validation."

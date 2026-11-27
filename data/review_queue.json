@@ -1,5 +1,65 @@
 [
   {
+    "id": "S032:49fcab06572232fd",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S032",
+    "candidate_id": "NP",
+    "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+    "observed_at": "2026-11-27T08:38:02+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S029:5d2b0acd224928e9",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S029",
+    "candidate_id": "MT",
+    "url": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+    "observed_at": "2026-11-27T08:38:02+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S011:8bb6a4092b9a76c7",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S011",
+    "candidate_id": "EP",
+    "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+    "observed_at": "2026-11-27T08:38:02+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S010:8bb6a4092b9a76c7",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S010",
+    "candidate_id": "EP",
+    "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+    "observed_at": "2026-11-27T08:38:02+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S006:73366c6ac2e01e43",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/",
+    "observed_at": "2026-11-27T08:38:02+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S004:044d3b58c52774f4",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S004",
+    "candidate_id": "BR",
+    "url": "https://www.avecretailleau.fr/projet/theme/institutions",
+    "observed_at": "2026-11-27T08:38:02+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
     "id": "S016:6b4f881aef63d5f2",
     "type": "source_change",
     "status": "a_verifier",
