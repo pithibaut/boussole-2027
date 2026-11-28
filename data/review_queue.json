@@ -1,5 +1,65 @@
 [
   {
+    "id": "S032:7f293ff86f56430e",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S032",
+    "candidate_id": "NP",
+    "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+    "observed_at": "2026-11-28T08:22:23+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S019:3a531f27d0a0faea",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S019",
+    "candidate_id": "GA",
+    "url": "https://attalpresident.fr/programme",
+    "observed_at": "2026-11-28T08:22:23+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S014:5393c49c03d609fd",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S014",
+    "candidate_id": "EZ",
+    "url": "https://www.ericzemmour.fr/priorites",
+    "observed_at": "2026-11-28T08:22:23+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S013:5393c49c03d609fd",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S013",
+    "candidate_id": "EZ",
+    "url": "https://www.ericzemmour.fr/instruction",
+    "observed_at": "2026-11-28T08:22:23+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S012:5393c49c03d609fd",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S012",
+    "candidate_id": "EZ",
+    "url": "https://www.ericzemmour.fr/identite",
+    "observed_at": "2026-11-28T08:22:23+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
+    "id": "S006:f7b85831fef622b1",
+    "type": "source_change",
+    "status": "a_verifier",
+    "source_id": "S006",
+    "candidate_id": "DB",
+    "url": "https://www.delphinebatho.fr/",
+    "observed_at": "2026-11-28T08:22:23+00:00",
+    "instructions": "Comparer le texte avant/après ; vérifier l’auteur, la date, la nuance et la question concernée. Ne pas coder automatiquement une réponse."
+  },
+  {
     "id": "S032:49fcab06572232fd",
     "type": "source_change",
     "status": "a_verifier",

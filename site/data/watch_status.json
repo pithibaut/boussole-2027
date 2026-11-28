@@ -1,11 +1,59 @@
 {
   "schema": 1,
-  "last_run_at": "2026-11-27T08:38:02+00:00",
+  "last_run_at": "2026-11-28T08:22:23+00:00",
   "sources_total": 36,
   "ok": 31,
   "errors": 5,
   "changes": 6,
   "recent_changes": [
+    {
+      "type": "changed",
+      "candidate_id": "DB",
+      "candidate_name": "Delphine Batho",
+      "source_id": "S006",
+      "url": "https://www.delphinebatho.fr/",
+      "observed_at": "2026-11-28T08:22:23+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "EZ",
+      "candidate_name": "Éric Zemmour",
+      "source_id": "S012",
+      "url": "https://www.ericzemmour.fr/identite",
+      "observed_at": "2026-11-28T08:22:23+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "EZ",
+      "candidate_name": "Éric Zemmour",
+      "source_id": "S013",
+      "url": "https://www.ericzemmour.fr/instruction",
+      "observed_at": "2026-11-28T08:22:23+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "EZ",
+      "candidate_name": "Éric Zemmour",
+      "source_id": "S014",
+      "url": "https://www.ericzemmour.fr/priorites",
+      "observed_at": "2026-11-28T08:22:23+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "GA",
+      "candidate_name": "Gabriel Attal",
+      "source_id": "S019",
+      "url": "https://attalpresident.fr/programme",
+      "observed_at": "2026-11-28T08:22:23+00:00"
+    },
+    {
+      "type": "changed",
+      "candidate_id": "NP",
+      "candidate_name": "Natacha Polony",
+      "source_id": "S032",
+      "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
+      "observed_at": "2026-11-28T08:22:23+00:00"
+    },
     {
       "type": "changed",
       "candidate_id": "BR",
@@ -157,54 +205,6 @@
       "source_id": "S006",
       "url": "https://www.delphinebatho.fr/",
       "observed_at": "2026-11-23T08:47:39+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "NP",
-      "candidate_name": "Natacha Polony",
-      "source_id": "S032",
-      "url": "https://www.npolony.fr/videos?v=47N0nqMEuJE",
-      "observed_at": "2026-11-23T08:47:39+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "DB",
-      "candidate_name": "Delphine Batho",
-      "source_id": "S006",
-      "url": "https://www.delphinebatho.fr/",
-      "observed_at": "2026-11-22T08:20:56+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "DL",
-      "candidate_name": "David Lisnard",
-      "source_id": "S009",
-      "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
-      "observed_at": "2026-11-22T08:20:56+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "EZ",
-      "candidate_name": "Éric Zemmour",
-      "source_id": "S012",
-      "url": "https://www.ericzemmour.fr/identite",
-      "observed_at": "2026-11-22T08:20:56+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "EZ",
-      "candidate_name": "Éric Zemmour",
-      "source_id": "S013",
-      "url": "https://www.ericzemmour.fr/instruction",
-      "observed_at": "2026-11-22T08:20:56+00:00"
-    },
-    {
-      "type": "changed",
-      "candidate_id": "EZ",
-      "candidate_name": "Éric Zemmour",
-      "source_id": "S014",
-      "url": "https://www.ericzemmour.fr/priorites",
-      "observed_at": "2026-11-22T08:20:56+00:00"
     }
   ],
   "note": "Changements de pages détectés automatiquement ; aucune position politique publiée sans validation."
